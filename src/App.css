@@ -1,0 +1,56 @@
+.inputcolr{
+  padding: 4px 10px;
+  border: 0;
+  font-size: 16px;
+  width: 500px;
+  margin: auto;
+  height: 30px;
+  color: #000000;
+  background-color: #eae3e3;
+  position: absolute;
+  top: 17%;
+
+  left: 40%;
+}
+
+.butcolor
+{
+  position: absolute;
+  top: 20%;
+
+  left: 48%;
+  width: 130px;
+  background-color: #e4e8ea;
+  color: #000000;
+  border: black;
+}
+.card{
+  position: absolute;
+  top: 25%;
+  left: 42%;
+  font-size: 45px;
+  
+
+}
+.headingwe{
+  position: absolute;
+  top: 0%;
+  left: 32%;
+  font-size: 35px;
+
+
+}
+.place-name{
+  font-size: 100px;
+  
+}
+.container{
+  background-image: rgb(45, 45, 193);
+
+
+}
+*{
+  background-image: rgb(45, 45, 193);
+  width: '100px';
+  height: '100px';
+}
